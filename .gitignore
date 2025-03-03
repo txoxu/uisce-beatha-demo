@@ -52,20 +52,19 @@ back/.env*
 back/log/*
 back/tmp/*
 !back/log/.keep
-!back/tmp/.keep
+back/tmp/.keep
 
 # Ignore pidfiles, but keep the directory.
 back/tmp/pids/*
 !back/tmp/pids/
-!back/tmp/pids/.keep
+back/tmp/pids/.keep
 
 # Ignore storage (uploaded files in development and any SQLite databases).
 back/storage/*
-!back/storage/.keep
+back/storage/.keep
 back/tmp/storage/*
 !back/tmp/storage/
-!back/tmp/storage/.keep
+back/tmp/storage/.keep
 
 # Ignore master key for decrypting credentials and more.
 back/config/master.key
-
