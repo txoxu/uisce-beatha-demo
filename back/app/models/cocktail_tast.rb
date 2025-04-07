@@ -1,0 +1,2 @@
+class CocktailTast < ApplicationRecord
+end
