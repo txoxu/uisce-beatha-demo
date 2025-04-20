@@ -9,7 +9,7 @@
 - [機能紹介](#機能紹介)
 - [技術構成](#技術構成)
   - [使用技術](#使用技術)
-  - [画面遷移図](#画面遷移図)
+  - [画面遷移図\&画面仕様書](#画面遷移図画面仕様書)
   - [ER図](#er図)
 
 # サービス概要
@@ -43,8 +43,8 @@
 | バージョン管理ツール | GitHub |
 <br>
 
-## 画面遷移図
-![alt text](https://www.figma.com/design/J6VvYsgxUMS1BuM42LK6mo/%E6%83%85%E5%A0%B1%E8%A8%AD%E8%A8%88?node-id=0-1&t=CLYcNGqpD7dgZRee-1)
+## 画面遷移図&画面仕様書
+[![alt text](https://www.figma.com/design/J6VvYsgxUMS1BuM42LK6mo/%E6%83%85%E5%A0%B1%E8%A8%AD%E8%A8%88?node-id=0-1&t=CLYcNGqpD7dgZRee-1)](https://www.figma.com/design/J6VvYsgxUMS1BuM42LK6mo/%E6%83%85%E5%A0%B1%E8%A8%AD%E8%A8%88?node-id=0-1&t=Ka3mxyPMj78X9IZd-1)
 <br>
 
 ## ER図
