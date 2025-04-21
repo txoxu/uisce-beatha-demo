@@ -9,8 +9,9 @@
 - [機能紹介](#機能紹介)
 - [技術構成](#技術構成)
   - [使用技術](#使用技術)
-  - [画面遷移図\&画面仕様書](#画面遷移図画面仕様書)
+  - [モバイルUI対応仕様書](#モバイルui対応仕様書)
   - [ER図](#er図)
+  - [github使用ルール（git flowを採用）](#github使用ルールgit-flowを採用)
 
 # サービス概要
   ・USQUAアプリの改良版
@@ -43,9 +44,10 @@
 | バージョン管理ツール | GitHub |
 <br>
 
-## 画面遷移図&画面仕様書
-[![alt text](https://www.figma.com/design/J6VvYsgxUMS1BuM42LK6mo/%E6%83%85%E5%A0%B1%E8%A8%AD%E8%A8%88?node-id=0-1&t=CLYcNGqpD7dgZRee-1)](https://www.figma.com/design/J6VvYsgxUMS1BuM42LK6mo/%E6%83%85%E5%A0%B1%E8%A8%AD%E8%A8%88?node-id=0-1&t=Ka3mxyPMj78X9IZd-1)
+## [モバイルUI対応仕様書](https://hackmd.io/@xzBZXiOBSyGltY-XychqUQ/HJZx8UG1ex)
 <br>
 
-## ER図
-![alt text](uisce-beatha.jpg)
+## [ER図](uisce-beatha.jpg)
+<br>
+
+## [github使用ルール（git flowを採用）](https://hackmd.io/@xzBZXiOBSyGltY-XychqUQ/SynSVkiByx)
