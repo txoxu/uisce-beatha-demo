@@ -11,6 +11,7 @@
   - [使用技術](#使用技術)
   - [モバイルUI対応仕様書](#モバイルui対応仕様書)
   - [ER図](#er図)
+  - [github使用ルール（git flowを採用）](#github使用ルールgit-flowを採用)
 
 # サービス概要
   ・USQUAアプリの改良版
@@ -47,3 +48,6 @@
 <br>
 
 ## [ER図](uisce-beatha.jpg)
+<br>
+
+## [github使用ルール（git flowを採用）](https://hackmd.io/@xzBZXiOBSyGltY-XychqUQ/SynSVkiByx)
