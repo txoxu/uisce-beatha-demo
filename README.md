@@ -10,6 +10,7 @@
 - [技術構成](#技術構成)
   - [使用技術](#使用技術)
   - [モバイルUI対応仕様書](#モバイルui対応仕様書)
+  - [コンポーネント設計](#コンポーネント設計)
   - [ER図](#er図)
   - [github使用ルール（git flowを採用）](#github使用ルールgit-flowを採用)
 
@@ -45,6 +46,9 @@
 <br>
 
 ## [モバイルUI対応仕様書](https://hackmd.io/@xzBZXiOBSyGltY-XychqUQ/HJZx8UG1ex)
+<br>
+
+## [コンポーネント設計](https://hackmd.io/@xzBZXiOBSyGltY-XychqUQ/HJwQcpQyeg)
 <br>
 
 ## [ER図](uisce-beatha.jpg)
