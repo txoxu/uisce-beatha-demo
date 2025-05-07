@@ -7,31 +7,32 @@
 - [サービスURL](#サービスurl)
 - [このサービスへの思い・作りたい理由](#このサービスへの思い作りたい理由)
 - [機能紹介](#機能紹介)
-- [技術構成](#技術構成)
   - [使用技術](#使用技術)
-  - [モバイルUI対応仕様書](#モバイルui対応仕様書)
-  - [コンポーネント設計](#コンポーネント設計)
-  - [ER図](#er図)
+- [開発スケジュール](#開発スケジュール)
+  - [1.要件定義](#1要件定義)
+  - [2.モバイル対応方針（UI/UX要件定義）](#2モバイル対応方針uiux要件定義)
+  - [3.ワイヤーフレーム（画面遷移図）](#3ワイヤーフレーム画面遷移図)
+  - [4.コンポーネント設計（フロント）](#4コンポーネント設計フロント)
+  - [5.共通構造とUIパーツの選定](#5共通構造とuiパーツの選定)
+    - [①UIパーツの選定](#uiパーツの選定)
+    - [②共通レイアウト設定](#共通レイアウト設定)
+    - [③\[UI/UX・インタラクション設計\]](#uiuxインタラクション設計)
+    - [④\[fetch層/api層/action層\]](#fetch層api層action層)
+  - [6.\[モデル・API設計(バックエンド)\]](#6モデルapi設計バックエンド)
+  - [7.実装](#7実装)
+  - [8.レスポンシブ対応・UI最終調整](#8レスポンシブ対応ui最終調整)
+  - [9.動作確認・UIチェック](#9動作確認uiチェック)
+  - [10.フィードバックと改善](#10フィードバックと改善)
   - [github使用ルール（git flowを採用）](#github使用ルールgit-flowを採用)
 
 # サービス概要
-  ・USQUAアプリの改良版
-  ・ウイスキーを登録し、管理、探求するアプリ
-  ・探求の部分では、ウイスキーベースのカクテル一覧で、レシピ、動画での作成の仕方、由来などを表示
-  ・（プラスα）1ヶ月の飲酒を記録できる。
-  ・（プラスα）aiを使用しておすすめの飲み方を提供できる。
-  <br>
 
 # サービスURL
 
 # このサービスへの思い・作りたい理由
-  ・卒業制作で作成したアプリである「USQUA」アプリを改良して、もっと使いやすいアプリにしたい。
-  ・一から作りなおして、違った環境で構築したい。
-  という上記の思いから改良しようと思いました。
   <br>
 
 # 機能紹介
-# 技術構成
 
 ## 使用技術
 | カテゴリ | 技術 |
@@ -45,13 +46,21 @@
 | バージョン管理ツール | GitHub |
 <br>
 
-## [モバイルUI対応仕様書](https://hackmd.io/@xzBZXiOBSyGltY-XychqUQ/HJZx8UG1ex)
-<br>
+# 開発スケジュール
+## 1.[要件定義](https://hackmd.io/@xzBZXiOBSyGltY-XychqUQ/SkNAzO1exe)
+## 2.[モバイル対応方針（UI/UX要件定義）](https://hackmd.io/@xzBZXiOBSyGltY-XychqUQ/HJZx8UG1ex)
+## 3.[ワイヤーフレーム（画面遷移図）](https://www.figma.com/board/6nGyHRlAuVBu1KC0npuoyA/%E7%94%BB%E9%9D%A2%E4%BB%95%E6%A7%98%E6%9B%B8?t=4g9O9aTpL18ktmhq-6)
+## 4.[コンポーネント設計（フロント）](https://hackmd.io/@xzBZXiOBSyGltY-XychqUQ/HJwQcpQyeg)
+## 5.共通構造とUIパーツの選定
+  ### ①[UIパーツの選定](https://hackmd.io/@xzBZXiOBSyGltY-XychqUQ/BkiaQq_1eg)
+  ### ②[共通レイアウト設定](https://hackmd.io/@xzBZXiOBSyGltY-XychqUQ/S1CWRWygxx)
+  ### ③[UI/UX・インタラクション設計]
+  ### ④[fetch層/api層/action層]
+## 6.[モデル・API設計(バックエンド)]
+## 7.実装
+## 8.レスポンシブ対応・UI最終調整
+## 9.動作確認・UIチェック
+## 10.フィードバックと改善
 
-## [コンポーネント設計](https://hackmd.io/@xzBZXiOBSyGltY-XychqUQ/HJwQcpQyeg)
-<br>
-
-## [ER図](uisce-beatha.jpg)
-<br>
 
 ## [github使用ルール（git flowを採用）](https://hackmd.io/@xzBZXiOBSyGltY-XychqUQ/SynSVkiByx)
