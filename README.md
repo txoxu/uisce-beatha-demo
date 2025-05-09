@@ -56,6 +56,7 @@
   ### ②[共通レイアウト設定](https://hackmd.io/@xzBZXiOBSyGltY-XychqUQ/S1CWRWygxx)
   ### ③インタラクション設計
           [トップページ](https://hackmd.io/KFceLhTnQc2S_VP7P-ZAEw)
+          [新規登録](https://hackmd.io/KFceLhTnQc2S_VP7P-ZAEw)
   ### ④[fetch層/api層/action層]
 ## 6.[モデル・API設計(バックエンド)]
 ## 7.実装
