@@ -57,7 +57,8 @@
   ### ③インタラクション設計
           [トップページ](https://hackmd.io/KFceLhTnQc2S_VP7P-ZAEw)
           [新規登録](https://hackmd.io/KFceLhTnQc2S_VP7P-ZAEw)
-          [ログイン](https://hackmd.io/KFceLhTnQc2S_VP7P-ZAEw) 
+          [ログイン](https://hackmd.io/KFceLhTnQc2S_VP7P-ZAEw)
+          [マイページ](https://hackmd.io/KFceLhTnQc2S_VP7P-ZAEw)
   ### ④[fetch層/api層/action層]
 ## 6.[モデル・API設計(バックエンド)]
 ## 7.実装
