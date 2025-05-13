@@ -59,6 +59,7 @@
           [新規登録](https://hackmd.io/KFceLhTnQc2S_VP7P-ZAEw)
           [ログイン](https://hackmd.io/KFceLhTnQc2S_VP7P-ZAEw)
           [マイページ](https://hackmd.io/KFceLhTnQc2S_VP7P-ZAEw)
+          [ウイスキー一覧](https://hackmd.io/KFceLhTnQc2S_VP7P-ZAEw?edit)
   ### ④[fetch層/api層/action層]
 ## 6.[モデル・API設計(バックエンド)]
 ## 7.実装
